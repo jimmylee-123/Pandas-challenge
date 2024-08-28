@@ -89,8 +89,10 @@ labels = ["Small (<1000)", "Medium (1000-2000)", "Large (2000-5000)"]
 * Summarizes the analysis
 * Draws two correct conclusions or comparisons from the calculations
 
+## Source Code Location
+
+* The source code (including the written analysis contained within the notebook) is located in the ```PyCitySchools``` directory.
+
 ## Acknowledgments
 
-* [Placeholder]
-* [Placeholder]
-* [Placeholder]
+* For this challenge module, I reviewed the class activities and also had guidance from ChatGPT.
